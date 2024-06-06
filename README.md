@@ -1,2 +1,2 @@
 # python_datascience
-Utilizando a linguagem Pyton aplicado a Banco de Dados.
+Utilizando a linguagem Pyhton aplicado a Banco de Dados.
