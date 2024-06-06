@@ -1,0 +1,7 @@
+
+if valor_imovel < 100000:
+    print('Imóvel de entrada')
+elif valor_imovel >= 100000 and valor_imovel < 500000:
+    print('Imóvel de médio valor')
+elif valor_imovel >= 500000:
+    print('Imóvel de alto valor')
